@@ -1,8 +1,8 @@
 class DevconfigsCli < Formula
   desc "A CLI to help you use devconfigs in your repos"
   homepage "https://github.com/stackfound/devconfigs-cli"
-  url "https://github.com/stackfound/devconfigs-cli/releases/download/v0.2.0/devconfigs.tar.gz"
-  sha256 "56fcf74adedf36051c6deeb158ba66a778a08733d2cc472b1f2690d508ac6d31"
+  url "https://github.com/stackfound/devconfigs-cli/releases/download/v0.3.0/devconfigs.tar.gz"
+  sha256 "185f22b3a31ec05f26512d1b4f11a8ed29a000db0107360750429720d82dd142"
   license "MIT"
 
   def install
